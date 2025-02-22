@@ -49,7 +49,6 @@ namespace AztroWebApplication.Services
             {
                 return null;
             }
-            
             return await userRepository.UpdateUserById(id, user);
         }
 

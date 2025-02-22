@@ -36,3 +36,4 @@ C:\Users\PC\Desktop\Proyectos React\AztroWebApplication\AztroWebApplication\bin\
 C:\Users\PC\Desktop\Proyectos React\AztroWebApplication\AztroWebApplication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\PC\Desktop\Proyectos React\AztroWebApplication\AztroWebApplication\bin\Debug\net9.0\Npgsql.dll
 C:\Users\PC\Desktop\Proyectos React\AztroWebApplication\AztroWebApplication\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\PC\Desktop\Proyectos React\AztroWebApplication\AztroWebApplication\obj\Debug\net9.0\AztroWebApplication.sourcelink.json
